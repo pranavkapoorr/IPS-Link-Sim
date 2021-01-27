@@ -1,0 +1,15 @@
+{
+  "name": "ips-link",
+  "version": "1.0.0",
+  "description": "ui to connect to ips=link server",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app",
+    "start": "electron app1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^10.1.1"
+  }
+}
